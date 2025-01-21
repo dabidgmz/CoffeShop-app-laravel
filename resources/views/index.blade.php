@@ -79,5 +79,6 @@
             <button type="submit">Enviar mensaje</button>
         </form>
     </section>
+    @include('footer')
 </body>
 </html>
