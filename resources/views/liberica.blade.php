@@ -5,8 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{{ asset('liberica.css') }}" rel="stylesheet">
     <title>Café Liberica</title>
+    @include('icon')
 </head>
 <body>
+    @include('navbar')
     <header>
     </header>
     <section class="informacion-container">

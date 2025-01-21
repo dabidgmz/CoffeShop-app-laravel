@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{{ asset('excelsa.css') }}" rel="stylesheet">
+    @include('icon')
 </head>
 <body>
-    
+    @include('navbar')
     <header>
     </header>
     <section class="informacion-container">

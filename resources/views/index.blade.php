@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{{ asset('index.css') }}" rel="stylesheet">
     <title>El Grano Dorado</title>
+    @include('icon')
 </head>
 <body>
     <header>
