@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{{ asset('excelsa.css') }}" rel="stylesheet">
+    <meta name="description" content="Descubre el sabor suave y afrutado del Café Arabica. Nuestra cafetería ofrece bebidas artesanales con granos seleccionados de los mejores cultivos.">
     @include('icon')
 </head>
 <body>
